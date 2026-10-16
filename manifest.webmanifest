@@ -1,0 +1,11 @@
+{
+  "name": "LOOPA \u2014 Friends & Growth",
+  "short_name": "LOOPA",
+  "description": "A premium dark social space for friends, interests, and growth.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090910",
+  "theme_color": "#090910",
+  "orientation": "portrait",
+  "icons": []
+}
